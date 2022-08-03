@@ -1,5 +1,5 @@
 # Mark D. Olsen
-### Hobbyist, TTRPG-enthusiast, and data-lover.
+### Hobbyist, TTRPG-enthusiast, and data-lover
 
 - I’m interested in Table-top Roleplaying Games, Digital Art (Blender and Photoshop), and Data Science.
 - I’ve been coding as a hobby since my dad signed me up for my first coding class way back in 1978 where I learned BASIC on a TRS-80.
